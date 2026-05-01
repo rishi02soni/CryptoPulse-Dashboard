@@ -104,7 +104,7 @@ State Management
 UI Design
 
 ## 📈 Future Improvements
-
+```
 ✅ Dark / Light Mode
 ✅ Charts Integration
 ✅ Login System
@@ -112,7 +112,7 @@ UI Design
 ✅ Price Alerts
 ✅ Historical Graphs
 ✅ Multi Currency Support
-
+```
 ## 🧠 Learning Concepts Used
 ```
 fetch()
